@@ -1,2 +1,1 @@
-#1 ScoalaAltfel
-
+# Folder cu proiecte
