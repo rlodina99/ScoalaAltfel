@@ -1,4 +1,4 @@
-# Proiect 8 leduri
+# Proiect 8 leduri in cerc
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VA6OY-tWPuI/0.jpg)]
